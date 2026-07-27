@@ -37,6 +37,7 @@ Student_Marks_Analyzer/
 ├── main.py
 ├── student_marks.csv
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
