@@ -71,7 +71,7 @@ Ahmed,65,70,68
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/hibafatima-ahsan/student-marks-analyzer
 ```
 
 ### Navigate to the project
